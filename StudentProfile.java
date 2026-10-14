@@ -12,7 +12,7 @@ public class StudentProfile {
     public static void main(String[] args) {
         System.out.println("Semester: Semester 1!");
         System.out.println("Favourite language:Java");
-        // TODO code application logic here
+        // test changes
     }
     
 }
